@@ -1,0 +1,38 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="false" />
+    <globalmarks />
+    <filemarks />
+    <jumps />
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">ZXhlYyAkY21kCg==</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZXhlYyAkY21kCg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search />
+      <history-cmd>
+        <entry>set fileformat=unix</entry>
+        <entry>set ff=unix</entry>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>

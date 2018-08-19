@@ -1,0 +1,30 @@
+<application>
+  <component name="KeyPromoterXStatistic">
+    <option name="statistics">
+      <Statistic Action="Last Edit Location">
+        <Item>
+          <IdeaActionID>JumpToLastChange</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+Backspace'</ShortCut>
+          <Description>Last Edit Location</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Move Line Down">
+        <Item>
+          <IdeaActionID>MoveLineDown</IdeaActionID>
+          <ShortCut>'Alt+Shift+向下箭头'</ShortCut>
+          <Description>Move Line Down</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Settings...">
+        <Item>
+          <IdeaActionID>ShowSettings</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+S'</ShortCut>
+          <Description>Settings...</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
+    </option>
+  </component>
+</application>
