@@ -9,6 +9,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Close Active Task...">
+        <Item>
+          <IdeaActionID>tasks.close</IdeaActionID>
+          <ShortCut>'Alt+Shift+W'</ShortCut>
+          <Description>Close Active Task...</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Copy...">
         <Item>
           <IdeaActionID>CopyElement</IdeaActionID>
@@ -39,6 +47,14 @@
           <ShortCut>'Alt+Insert'</ShortCut>
           <Description>Generate...</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Implementation(s)">
+        <Item>
+          <IdeaActionID>GotoImplementation</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+B' or 'Ctrl+Alt+Button1 Click'</ShortCut>
+          <Description>Implementation(s)</Description>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Last Edit Location">
@@ -94,7 +110,7 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+S'</ShortCut>
           <Description>Settings...</Description>
-          <Count>7</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Structure">
@@ -102,6 +118,14 @@
           <IdeaActionID>ActivateStructureToolWindow</IdeaActionID>
           <ShortCut>'Alt+7'</ShortCut>
           <Description>Structure</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="TODO">
+        <Item>
+          <IdeaActionID>ActivateTODOToolWindow</IdeaActionID>
+          <ShortCut>'Alt+6'</ShortCut>
+          <Description>TODO</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -126,7 +150,7 @@
           <IdeaActionID>GotoTypeDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+Shift+B' or 'Ctrl+Shift+Button1 Click'</ShortCut>
           <Description>Type Declaration</Description>
-          <Count>2</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Variable...">
@@ -134,6 +158,22 @@
           <IdeaActionID>IntroduceVariable</IdeaActionID>
           <ShortCut>'Ctrl+Alt+V'</ShortCut>
           <Description>Variable...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Version Control">
+        <Item>
+          <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
+          <ShortCut>'Alt+9' or 'Alt+Shift+9'</ShortCut>
+          <Description>Version Control</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="test">
+        <Item>
+          <IdeaActionID>tasks.switch</IdeaActionID>
+          <ShortCut>'Alt+Shift+T'</ShortCut>
+          <Description>test</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
