@@ -81,6 +81,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Select In...">
+        <Item>
+          <IdeaActionID>SelectIn</IdeaActionID>
+          <ShortCut>'Alt+F1'</ShortCut>
+          <Description>Select In...</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Settings...">
         <Item>
           <IdeaActionID>ShowSettings</IdeaActionID>
