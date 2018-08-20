@@ -2,7 +2,4 @@
   <action id="NewClass">
     <keyboard-shortcut first-keystroke="alt n" />
   </action>
-  <action id="QuickList.Test">
-    <keyboard-shortcut first-keystroke="ctrl alt f10" />
-  </action>
 </keymap>
