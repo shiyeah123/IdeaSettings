@@ -9,6 +9,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Class...">
+        <Item>
+          <IdeaActionID>GotoClass</IdeaActionID>
+          <ShortCut>'Ctrl+N'</ShortCut>
+          <Description>Class...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Close Active Task...">
         <Item>
           <IdeaActionID>tasks.close</IdeaActionID>
@@ -118,7 +126,7 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+S'</ShortCut>
           <Description>Settings...</Description>
-          <Count>8</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="Structure">
