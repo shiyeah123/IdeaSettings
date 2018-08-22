@@ -38,7 +38,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'Delete'</ShortCut>
           <Description>Delete...</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Favorites">
@@ -71,6 +71,14 @@
           <ShortCut>'Ctrl+Alt+B' or 'Ctrl+Alt+Button1 Click'</ShortCut>
           <Description>Implementation(s)</Description>
           <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Java Class">
+        <Item>
+          <IdeaActionID>NewClass</IdeaActionID>
+          <ShortCut>'Alt+N'</ShortCut>
+          <Description>Java Class</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Last Edit Location">
