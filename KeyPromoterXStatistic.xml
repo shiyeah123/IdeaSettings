@@ -142,7 +142,7 @@
           <IdeaActionID>NewClass</IdeaActionID>
           <ShortCut>'Alt+N'</ShortCut>
           <Description>Java Class</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Last Edit Location">
@@ -310,7 +310,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'oauth [spring-boot:run]'</Description>
-          <Count>2</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'oauth2 [spring-boot:run]'">
@@ -318,7 +318,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'oauth2 [spring-boot:run]'</Description>
-          <Count>3</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Structure">
