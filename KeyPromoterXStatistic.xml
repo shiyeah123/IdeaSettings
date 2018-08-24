@@ -1,6 +1,14 @@
 <application>
   <component name="KeyPromoterXStatistic">
     <option name="statistics">
+      <Statistic Action="Build Project">
+        <Item>
+          <IdeaActionID>CompileDirty</IdeaActionID>
+          <ShortCut>'Ctrl+F9'</ShortCut>
+          <Description>Build Project</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Change Signature...">
         <Item>
           <IdeaActionID>ChangeSignature</IdeaActionID>
@@ -31,6 +39,14 @@
           <ShortCut>'F5'</ShortCut>
           <Description>Copy...</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug">
+        <Item>
+          <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
+          <ShortCut>'Alt+5'</ShortCut>
+          <Description>Debug</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Declaration">
@@ -137,6 +153,22 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run">
+        <Item>
+          <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
+          <ShortCut>'Alt+4'</ShortCut>
+          <Description>Run</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run...">
+        <Item>
+          <IdeaActionID>ChooseRunConfiguration</IdeaActionID>
+          <ShortCut>'Alt+Shift+F10'</ShortCut>
+          <Description>Run...</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Safe Delete...">
         <Item>
           <IdeaActionID>SafeDelete</IdeaActionID>
@@ -169,6 +201,22 @@
           <Count>14</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'RemoteDebugApplication'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'RemoteDebugApplication'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'docker-tomcat-remote-debugging'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'docker-tomcat-remote-debugging'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Structure">
         <Item>
           <IdeaActionID>ActivateStructureToolWindow</IdeaActionID>
@@ -198,7 +246,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>6</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
