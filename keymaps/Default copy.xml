@@ -2,4 +2,7 @@
   <action id="NewClass">
     <keyboard-shortcut first-keystroke="alt n" />
   </action>
+  <action id="NewDir">
+    <keyboard-shortcut first-keystroke="alt p" />
+  </action>
 </keymap>
