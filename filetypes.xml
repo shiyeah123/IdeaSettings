@@ -1,8 +1,0 @@
-<application>
-  <component name="FileTypeManager" version="17">
-    <extensionMap>
-      <mapping pattern="mysqldb-dockerfile" type="Dockerfile" />
-      <mapping pattern="springapp-dockerfile" type="Dockerfile" />
-    </extensionMap>
-  </component>
-</application>
