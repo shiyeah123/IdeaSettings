@@ -2,7 +2,11 @@
   <action id="CodeCompletion">
     <keyboard-shortcut first-keystroke="alt slash" />
   </action>
+  <action id="Console.TableResult.SetDefault" />
   <action id="HippieCompletion" />
+  <action id="NewDir">
+    <keyboard-shortcut first-keystroke="ctrl alt d" />
+  </action>
   <action id="SmartTypeCompletion">
     <keyboard-shortcut first-keystroke="ctrl alt slash" />
   </action>
