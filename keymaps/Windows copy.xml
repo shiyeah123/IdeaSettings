@@ -16,4 +16,7 @@
   <action id="SmartTypeCompletion">
     <keyboard-shortcut first-keystroke="ctrl alt slash" />
   </action>
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="alt s" />
+  </action>
 </keymap>
