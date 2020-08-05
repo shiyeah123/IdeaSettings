@@ -1,0 +1,8 @@
+<application>
+  <component name="LanguageInjectionConfiguration">
+    <injection language="JSON" injector-id="java">
+      <display-name>AbstractParser.parse (zuo.biao.apijson.server)</display-name>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("parse").withParameters("java.lang.String", "int").definedInClass("zuo.biao.apijson.server.AbstractParser"))]]></place>
+    </injection>
+  </component>
+</application>
