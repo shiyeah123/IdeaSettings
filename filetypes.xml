@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="GatewayApplication" type="JAVA" />
       <mapping pattern="init_sql" type="PLAIN_TEXT" />
       <mapping ext="ql" type="PLAIN_TEXT" />
     </extensionMap>
